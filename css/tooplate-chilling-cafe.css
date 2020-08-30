@@ -32,7 +32,7 @@ body {
 .tm-main-content { background-color: #ffffff; }
 
 #tm-intro-img {
-  background-image: url(../img/chilling-cafe-01.jpg);
+  background-image: url(../img/weights.jpg);
   background-position: center;
   background-size: cover;
   min-height: 425px;
@@ -165,6 +165,13 @@ hr {
   text-decoration: none;
   transition: all 0.3s ease;
 }
+.tm-special-item-img{
+  width: 15vw;
+  height: 15w;
+ 
+}
+
+
 
 .tm-social-link:hover { background-color: #808e9e; }
 
