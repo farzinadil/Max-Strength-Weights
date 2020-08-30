@@ -167,10 +167,13 @@ hr {
 }
 .tm-special-item-img{
   width: 15vw;
-  height: 15w;
+  height: 15vw;
  
 }
 
+.google-map{
+ 
+}
 
 
 .tm-social-link:hover { background-color: #808e9e; }
