@@ -168,7 +168,9 @@ hr {
 .google-map{
  
 }
-
+#alert {
+  color: red;
+}
 
 .tm-social-link:hover { background-color: #808e9e; }
 
